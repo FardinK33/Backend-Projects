@@ -1,0 +1,18 @@
+{
+  "name": "quotes-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "\"Quotes API: Create, Add, Delete and Fetch Random Quotes\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Fardin Khan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.7"
+  }
+}
